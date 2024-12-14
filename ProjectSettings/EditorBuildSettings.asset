@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 091866f81aab7154f8adca7e6ba20b07
+  - enabled: 1
+    path: Assets/Scenes/Lose_Time.unity
+    guid: c7b251d00094332498767ecb0435cb1d
+  - enabled: 1
+    path: Assets/Scenes/Lose_Died.unity
+    guid: cc0626f7816e2694abb384eb3617bef9
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: acf06d4b511d75d43bbcdf950f829a56
+  m_configObjects: {}
